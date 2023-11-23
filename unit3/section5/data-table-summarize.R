@@ -1,5 +1,5 @@
 # Summarizing with data.table 
-
+library(data.table)
 library(dslabs)
 data(heights)
 heights <- setDT(heights)
